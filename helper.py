@@ -1,5 +1,3 @@
-# Add your utilities or helper functions to this file.
-
 import os
 import torch
 from datasets import load_dataset, Dataset
